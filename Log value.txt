@@ -1,0 +1,19 @@
+Time resolution is 1 ps
+Time=0 A= 10 B=  5 Sel=000 | Out= 15 Carry=0 Zero=0 Neg=0 Ovf=0
+Time=10000 A= 10 B=  5 Sel=001 | Out=  5 Carry=0 Zero=0 Neg=0 Ovf=0
+Time=20000 A= 10 B=  5 Sel=010 | Out=  0 Carry=0 Zero=1 Neg=0 Ovf=0
+Time=30000 A= 10 B=  5 Sel=011 | Out= 15 Carry=0 Zero=0 Neg=0 Ovf=0
+Time=40000 A= 10 B=  5 Sel=100 | Out= 15 Carry=0 Zero=0 Neg=0 Ovf=0
+Time=50000 A= 10 B=  5 Sel=101 | Out= 20 Carry=0 Zero=0 Neg=0 Ovf=0
+Time=70000 A= 10 B=  5 Sel=110 | Out=  5 Carry=0 Zero=0 Neg=0 Ovf=0
+Time=80000 A= 36 B=129 Sel=101 | Out= 72 Carry=0 Zero=0 Neg=0 Ovf=0
+Time=90000 A= 99 B= 13 Sel=010 | Out=  1 Carry=0 Zero=0 Neg=0 Ovf=0
+Time=100000 A=101 B= 18 Sel=010 | Out=  0 Carry=0 Zero=1 Neg=0 Ovf=0
+Time=110000 A= 13 B=118 Sel=011 | Out=127 Carry=0 Zero=0 Neg=0 Ovf=0
+Time=120000 A=237 B=140 Sel=101 | Out=218 Carry=0 Zero=0 Neg=1 Ovf=0
+Time=130000 A=198 B=197 Sel=101 | Out=140 Carry=0 Zero=0 Neg=1 Ovf=0
+Time=140000 A=229 B=119 Sel=010 | Out=101 Carry=0 Zero=0 Neg=0 Ovf=0
+Time=150000 A=143 B=242 Sel=011 | Out=255 Carry=0 Zero=0 Neg=1 Ovf=0
+Time=160000 A=232 B=197 Sel=100 | Out= 45 Carry=0 Zero=0 Neg=0 Ovf=0
+Time=170000 A=189 B= 45 Sel=110 | Out= 94 Carry=0 Zero=0 Neg=0 Ovf=0
+$finish called at time : 180 ns : File "C:/Users/hp/Desktop/VLSI PROJECTS/8 BIT ALU with Flags/8 BIT ALU with Flags.srcs/sim_1/new/tb_alu_8bit.v" Line 30
