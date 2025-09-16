@@ -42,8 +42,8 @@ It has been designed in **Verilog**, verified via **simulation (testbenches + wa
 ## 🚀 How to Run the Project
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/alu_8bit_fpga.git
-cd alu_8bit_fpga
+git clone https://github.com/yourusername/8_BIT_ALU.git
+cd 8_BIT_ALU
 ```
 
 ### 2. Open in Vivado
